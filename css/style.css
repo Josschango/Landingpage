@@ -1,0 +1,138 @@
+@charset "UTF-8";
+.encabezado{
+	background-color: silver;
+	height: 143px;
+	width: 100%;
+}
+.imagen{
+	background-color: silver;
+	width: 98%;
+	float: left;
+	margin-right: 0%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	height: 1000px;
+	margin-top: 1%;
+}
+
+.footer{
+	background-color:whitesmoke;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 17px;
+	text-align: justify;
+	width: 99%;
+	float: left;
+	margin-top: -1%;
+	margin-right: 0%;
+	margin-left: 0%;
+	margin-bottom: 1%;
+	height: 60px;
+	padding-top: 17px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.texto{
+	background-color: silver;
+	height: 143px;
+	width: 100%;	
+}
+
+.espacio{
+	background-color: #60CA49;
+	height: 143px;
+	width: 100%;
+	
+}
+
+
+
+/*Nuevo formato*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*Encabezado*/
+
+.encabezado{
+	background: #375BF4;
+	color: white;
+	text-align: center;
+	display: inline-table;
+}
+.encabezado p{
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 80px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: 700;
+}
+#uno{
+	background-image:url(../img/3.jpg)
+}
+#dos{
+	background-image: url(../img/album.jpg)
+}
+.texto{
+	background: #FE824F;
+	color: white;
+	text-align: center;
+	display: inline-table;
+}
+.texto p{
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 80px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: 700;
+}
+.box1{
+	background-color: #FB88AB;
+	width: 23%;
+	float: left;
+	margin-right: -6%;
+	margin-left: 6%;
+	margin-bottom: 1%;
+	height: 598px;
+	margin-top: 11%;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: justify;
+	padding-top: 70px;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 70px;
+	font-size: 18px;
+}
+.imagen2{
+	background-color: silver;
+	width: 56%;
+	float: left;
+	margin-right: -6%;
+	margin-left: 9%;
+	margin-bottom: 1%;
+	height: 1196px;
+	margin-top: 1%;
+}
+.espacio{
+	background: #60CA49;
+	color: white;
+	text-align: center;
+	display: inline-table;
+}
+.espacio p{
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 80px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: 700;
+}
+.galeria{
+	background-color: silver;
+	width: 21%;
+	float: left;
+	margin-right: 2%;
+	margin-left: 2%;
+	margin-bottom: 1%;
+	height: 202px;
+	margin-top: 25px;
+}
